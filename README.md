@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Python
 - 🐱‍🏍 This is my first Git
 
-![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimmyJacke&show_icons=true&theme=dracula)
 ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimmyJacke&show_icons=true&theme=radical)
 
 ### Technology 
