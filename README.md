@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 🐱‍🏍 This is my first Git
 
 ![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimmyJacke&show_icons=true&theme=dracula)
+![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimmyJacke&show_icons=true&theme=radical)
 
 ### Technology 
 ![Tecnologia](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
